@@ -1,0 +1,22 @@
+# --- Agentic Orchestration ---
+crewai>=0.28.0
+agentops>=0.1.0
+pydantic>=2.0.0
+
+# --- Data Science & Visualization ---
+pandas
+numpy
+matplotlib
+seaborn
+
+# --- PowerPoint & Document Automation ---
+python-pptx
+unstructured[html]
+
+# --- Networking & API Interaction ---
+requests
+python-dotenv
+
+# --- LLM Connectors ---
+# Note: Ensure you have your environment variables set for OpenAI/Groq
+openai
