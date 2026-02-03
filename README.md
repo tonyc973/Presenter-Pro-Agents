@@ -2,7 +2,6 @@
 
 This is an autonomous agent workflow that, for a given topic, builds a professional PowerPoint presentation with 4K images and charts and also speaker notes.
 
-Here is an example of generated presentation!
 
 ## Tech Stack
 - **Agents Orchestration:** CrewAI
